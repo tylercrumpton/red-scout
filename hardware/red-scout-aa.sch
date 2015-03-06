@@ -30,6 +30,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:crumpschemes
+LIBS:red-scout-aa-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -822,7 +823,7 @@ Connection ~ 10050 1850
 Wire Wire Line
 	10200 1850 10200 1900
 Text GLabel 4400 2250 2    60   Input ~ 0
-PWM6
+PWM7
 Wire Wire Line
 	4400 2250 4300 2250
 Text GLabel 4400 4650 2    60   Input ~ 0
