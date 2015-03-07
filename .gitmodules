@@ -1,0 +1,9 @@
+[submodule "hardware/CrumpPrints.pretty"]
+	path = hardware/CrumpPrints.pretty
+	url = git@github.com:tylercrumpton/CrumpPrints.pretty.git
+[submodule "hardware/CrumpSchemes"]
+	path = hardware/CrumpSchemes
+	url = git@github.com:tylercrumpton/CrumpSchemes.git
+[submodule "hardware/CrumpPrintSymbols.pretty"]
+	path = hardware/CrumpPrintSymbols.pretty
+	url = git@github.com:tylercrumpton/CrumpPrintSymbols.pretty.git
