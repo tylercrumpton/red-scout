@@ -21,4 +21,5 @@ Red Scout is a wireless module designed to allow easy collection of data from a 
   - I2C pins (SCL, SDA, CLK)
   - UART pins (TX, RX)
   - PWM pin
+  - 4 analog inputs
 - 3mm mounting holes
