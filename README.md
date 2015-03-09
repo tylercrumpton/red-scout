@@ -11,6 +11,7 @@ Red Scout is a wireless module designed to allow easy collection of data from a 
 - Uses snap fasteners for connecting sensors and devices
 
 ### AA-Version Features
+![AA-Version v1.0 Red Scout](https://cloud.githubusercontent.com/assets/1317406/6549054/dcc10e6e-c5d9-11e4-8e45-32023bc82370.png)
 - Powered by two AA batteries
   - Can last up to year in low power mode
 - Two LEDs controlled by PWM pins
