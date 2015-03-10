@@ -10,6 +10,9 @@ Red Scout is a wireless module designed to allow easy collection of data from a 
 - Small (less than 10x10cm)
 - Uses snap fasteners for connecting sensors and devices
 
+### Assembly-time Configuration
+To configure the IO pads of the Red Scout at assembly time, a resistor or jumper can be added to the PD or PU resistor pads for that IO. A resistor soldered to the PD pads is placed between the IO pad and GND, whereas a resistor soldered to the PU pads is placed between the IO pad and VCC. By soldering a zero ohm resistor on PD or PU, the IO pad can be used as VCC or GND instead of its IO function. Example hardware configurations will be added to the documentation in the future.
+
 ### AA-Version Features
 ![AA-Version v1.0 Red Scout](https://cloud.githubusercontent.com/assets/1317406/6549054/dcc10e6e-c5d9-11e4-8e45-32023bc82370.png)
 - Powered by two AA batteries
