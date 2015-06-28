@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-12-04 BZR 5312)-product   date = 3/5/2015 1:23:39 AM
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 6/27/2015 10:23:07 PM
 
 BeginCmp
 TimeStamp = /54F7F32F;
@@ -75,6 +75,20 @@ TimeStamp = /54F81769;
 Reference = P8;
 ValeurCmp = SNAP;
 IdModule  = _CrumpPrints:16_snap;
+EndCmp
+
+BeginCmp
+TimeStamp = /558F673A;
+Reference = P9;
+ValeurCmp = IO;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /558F84BC;
+Reference = P10;
+ValeurCmp = UART1;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
 EndCmp
 
 BeginCmp
@@ -208,6 +222,27 @@ TimeStamp = /54F81763;
 Reference = R19;
 ValeurCmp = PD;
 IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /558F5E1F;
+Reference = R20;
+ValeurCmp = BYPASS;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /558F904C;
+Reference = R21;
+ValeurCmp = 3V3_EN;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /558F5870;
+Reference = SW1;
+ValeurCmp = SWITCH_INV;
+IdModule  = _CrumpPrints:SPDT_slide_switch;
 EndCmp
 
 BeginCmp
