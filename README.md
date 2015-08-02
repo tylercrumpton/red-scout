@@ -26,3 +26,21 @@ To configure the IO pads of the Red Scout at assembly time, a resistor or jumper
   - PWM pin
   - 4 analog inputs
 - 3mm mounting holes
+
+
+### Pinouts
+
+To simplify programming, pin equivalence is given in the table below.
+
+| SM200 pin | Pin Name | RedScout | SNAPpy IO |
+|-----------|----------|----------|-----------|
+| D3        | PWM7     | P1       |         7 |
+| B7        | SCL      | P2       |        31 |
+| A7        | SDA      | P3       |        30 |
+| B4        | MOSI     | P4       |        25 |
+| B1        | MISO     | P5       |        18 |
+| A5        | CLK      | P6       |        26 |
+| C2        | TX0      | P7       |        17 |
+| C1        | RX0      | P8       |        16 |
+| D2        | PWM6     | D2       |         6 |
+| D1        | PWM5     | D1       |         5 |
